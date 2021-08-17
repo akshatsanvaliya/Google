@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3ClickCloud</string>
+    <string name="git_hub">Git Hub</string>
+    <string name="log_out">Log-Out</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="facebook_app_id">413812250072680</string>
+    <string name="fb_login_protocol_scheme">fb413812250072680</string>
+
+</resources>
